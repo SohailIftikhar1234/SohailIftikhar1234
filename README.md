@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="github-banner.png" alt="AI & Machine Learning Engineer" width="100%">
 
-<!--
-**SohailIftikhar1234/SohailIftikhar1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+I'm an AI/ML engineer focused on NLP, computer vision and LLM applications.
+I'm building a public portfolio of end-to-end projects, committing code every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔭 Currently building**
+- Classic ML pipeline with a small API
+- Computer vision classifier
+- RAG document Q&A app with evaluation
+- A small transformer from scratch
+
+**🛠️ Tech:** Python · PyTorch · scikit-learn · SQL · Git
+
+**📌 Pinned projects below, each with a README, results and instructions to run.**
