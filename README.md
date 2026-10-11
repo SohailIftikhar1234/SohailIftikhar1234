@@ -1,16 +1,24 @@
 <img src="github-banner.png" alt="AI & Machine Learning Engineer" width="100%">
 
-### Hi there 👋
+### AI/ML engineer with a systems background
 
-I'm an AI/ML engineer focused on NLP, computer vision and LLM applications.
-I'm building a public portfolio of end-to-end projects, committing code every day.
+I'm a software engineer with 5+ years of experience, working from low-level
+systems up to modern LLMs. I like understanding how things work under the
+hood, then building them to run reliably in production.
 
-**🔭 Currently building**
-- Classic ML pipeline with a small API
-- Computer vision classifier
-- RAG document Q&A app with evaluation
-- A small transformer from scratch
+**What I've built**
+- ⚙️ **Systems:** compilers, kernels, virtual memory, assembly
+- 🔐 **Data and encoding:** encoders/decoders, data processing pipelines
+- 🧮 **Foundations:** algorithms, data structures, object-oriented design
+- 🤖 **AI/ML:** NLP, computer vision and LLM applications
 
-**🛠️ Tech:** Python · PyTorch · scikit-learn · SQL · Git
+**What I'm working on now**
+- RAG over custom document collections, with proper evaluation
+- Fine-tuning open LLMs (LoRA/QLoRA) on domain-specific data
+- A transformer implemented from scratch
+- Serving and deploying models behind clean APIs
 
-**📌 Pinned projects below, each with a README, results and instructions to run.**
+**Tech:** Python · C/C++ · PyTorch · Hugging Face · SQL · Git
+
+I'm publishing one project at a time, each with a README, results and
+reproducible instructions. New commits land every day.
